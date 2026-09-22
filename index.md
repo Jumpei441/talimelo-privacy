@@ -1,9 +1,9 @@
 ---
-title: "StoryNest / えほんのおと — Privacy Policy"
+title: "Talimelo — Privacy Policy"
 lang: en
 ---
 
-# StoryNest / えほんのおと
+# Talimelo
 
 - [Privacy Policy (English)](en/)
 - [プライバシーポリシー(日本語)](ja/)

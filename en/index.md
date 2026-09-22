@@ -1,13 +1,13 @@
 ---
-title: "StoryNest — Privacy Policy"
+title: "Talimelo — Privacy Policy"
 lang: en
 ---
 
-# StoryNest — Privacy Policy
+# Talimelo — Privacy Policy
 
-Last updated: 2026-09-21
+Last updated: 2026-09-22
 
-StoryNest (Japanese title: えほんのおと; the "App") is a read-aloud picture book app
+Talimelo (the "App") is a read-aloud picture book app
 for children aged 0 to 8. The developer of the App (the "Developer") designed it so that
 **the App collects no information that can identify a user.**
 
@@ -72,7 +72,7 @@ Used for the optional purchase of paid books.
   This ID is not linked to a name or an email address and cannot be traced back to a person.
 - RevenueCat receives that anonymous ID, records of purchases and restores, and technical
   information such as the app version, OS version, device model, and country
-  (estimated from the IP address). This is used only to verify and restore purchases.
+  (estimated from the IP address). This is used only to verify and restore purchases and to produce aggregate sales figures that identify no one.
 - If the App is uninstalled and reinstalled, a new anonymous ID is generated. Earlier
   purchases can be recovered with "Restore purchases" inside the parents' area, based on
   the purchase history held by the Google account.
@@ -152,4 +152,4 @@ For questions about this policy or about privacy in the App, please contact:
 - Developer: yoshiidev
 - Email: jcom.japan.jumpei@gmail.com
 
-日本語版: [https://jumpei441.github.io/storynest-privacy/ja/](https://jumpei441.github.io/storynest-privacy/ja/)
+日本語版: [https://jumpei441.github.io/talimelo-privacy/ja/](https://jumpei441.github.io/talimelo-privacy/ja/)

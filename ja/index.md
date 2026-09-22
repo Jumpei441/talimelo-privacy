@@ -1,13 +1,13 @@
 ---
-title: "えほんのおと プライバシーポリシー"
+title: "Talimelo プライバシーポリシー"
 lang: ja
 ---
 
-# えほんのおと プライバシーポリシー
+# Talimelo プライバシーポリシー
 
-最終更新日: 2026-09-21
+最終更新日: 2026-09-22
 
-「えほんのおと」(英語名 StoryNest。以下「本アプリ」)は、0〜8歳のお子様に向けた
+「Talimelo」(以下「本アプリ」)は、0〜8歳のお子様に向けた
 絵本の読み聞かせアプリです。本アプリの開発者(以下「開発者」)は、
 **本アプリが利用者を識別できる情報を一切収集しない**方針で本アプリを設計しました。
 
@@ -70,7 +70,7 @@ Android のアプリ情報画面で確認できる本アプリの権限は `INTE
   この ID は氏名やメールアドレスと結び付いておらず、利用者本人をたどることはできません。
 - RevenueCat には、上記の匿名 ID、購入・復元の記録、および
   アプリのバージョン・OS のバージョン・端末の機種・国(IP アドレスからの推定)といった
-  技術的な情報が送信されます。これらは購入の検証と復元のためだけに使われます。
+  技術的な情報が送信されます。これらは購入の検証と復元、および個人を特定しない売上の集計にのみ使われます。
 - アプリを削除して再インストールした場合、匿名 ID は新しいものに変わります。
   以前の購入は「購入の復元」(「おとなのかたへ」画面内)から、
   Google アカウントの購入履歴をもとに復元できます。
@@ -146,4 +146,4 @@ Google Play の「ファミリー向けプログラム」の要件、米国の�
 - 開発者: yoshiidev
 - メール: jcom.japan.jumpei@gmail.com
 
-English version: [https://jumpei441.github.io/storynest-privacy/en/](https://jumpei441.github.io/storynest-privacy/en/)
+English version: [https://jumpei441.github.io/talimelo-privacy/en/](https://jumpei441.github.io/talimelo-privacy/en/)
